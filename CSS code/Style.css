@@ -33,9 +33,9 @@ nav ul {
 }
 
 nav li {
-    display: inline-block;
     margin-right: 20px;
     float: left;
+    flex: top;
 }
 
 nav a {
